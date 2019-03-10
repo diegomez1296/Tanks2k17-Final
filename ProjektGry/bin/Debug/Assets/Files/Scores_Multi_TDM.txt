@@ -1,0 +1,10 @@
+Tank1֎30֎Tank2֎230
+Tank1֎100֎Tank2֎130
+Tank1֎130֎Tank2֎100
+Tank1֎70֎Tank2֎130
+Tank1֎60֎Tank2֎60
+Tank1֎60֎Tank2֎60
+Tank1֎60֎Tank2֎60
+Tank1֎60֎Tank2֎60
+Tank1֎60֎Tank2֎60
+Tank1֎60֎Tank2֎60

@@ -1,0 +1,15 @@
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\bin\Debug\ProjektGry.exe.config
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\obj\Debug\Interop.WMPLib.dll
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\obj\Debug\ProjektGry.csproj.ResolveComReference.cache
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\obj\Debug\ProjektGry.csprojResolveAssemblyReference.cache
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\obj\Debug\ProjektGry.Form1.resources
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\obj\Debug\ProjektGry.Properties.Resources.resources
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\obj\Debug\ProjektGry.StartForm.resources
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\obj\Debug\ProjektGry.csproj.GenerateResource.Cache
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\bin\Debug\ProjektGry.exe
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\bin\Debug\ProjektGry.pdb
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\bin\Debug\Interop.WMPLib.dll
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\obj\Debug\ProjektGry.exe
+C:\Users\Windows 8\Desktop\ProjektGryv23_Final+Upd1_TMC\ProjektGryv23_Final\ProjektGry\Git\Tanks2k17-Final\ProjektGry\obj\Debug\ProjektGry.pdb

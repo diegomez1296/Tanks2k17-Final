@@ -1,0 +1,3 @@
+Background_Music: 4
+Game_Music: 2
+Volume: 20
